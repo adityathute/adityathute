@@ -5,7 +5,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityathute&theme=react&hide_border=false" style="display:inline-block;">
 </div>
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="left">:hammer_and_wrench: Technologies and Tools:</h2>
 
 ![dsfsdfsd](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
