@@ -1,5 +1,15 @@
-![](https://github-readme-streak-stats.herokuapp.com/?user=adityathute&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityathute&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=false&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Aditya;I+do+Open+Source)](https://git.io/typing-svg)
+
+<div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=adityathute&theme=react&hide_border=false&include_all_commits=true&count_private=true" style="display:inline-block; margin-right: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityathute&theme=react&hide_border=false" style="display:inline-block;">
+</div>
+
+
+
+
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adityathute&theme=radical&no-frame=false&no-bg=true&margin-w=4)
