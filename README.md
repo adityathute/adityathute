@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=false&vCenter=true&random=false&width=435&lines=Hi+there;I'm+Aditya)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=false&vCenter=true&random=false&width=435&lines=Hi+there;I'm+Aditya+Thute)](https://git.io/typing-svg)
 
 <div style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=adityathute&theme=react&hide_border=false&include_all_commits=true&count_private=true" style="display:inline-block; margin-right: 10px;">
