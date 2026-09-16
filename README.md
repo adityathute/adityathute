@@ -1,44 +1,107 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1400&center=false&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Aditya+%F0%9F%91%8B;Full-Stack+Developer;Building+Scalable+Applications)](https://git.io/typing-svg)
 
+<h2>👨‍💻 About Me</h2>
 
+<p>
+I'm a Full-Stack Developer focused on building scalable web applications and practical software solutions.
+</p>
 
+<p>
+I work across frontend and backend development, with a focus on clean architecture, APIs, databases, and responsive user experiences.
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=false&vCenter=true&random=false&width=435&lines=Hi+there!;)](https://git.io/typing-svg)
+<h2>📊 GitHub Statistics</h2>
 
-<div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=adityathute&theme=react&hide_border=false&include_all_commits=true&count_private=true" style="display:inline-block; margin-right: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityathute&theme=react&hide_border=false" style="display:inline-block;">
+<div align="left">
+<img src="https://streak-stats.demolab.com/?user=adityathute&theme=react&hide_border=false" height="170">
 </div>
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools:</h2>
+<h2>🛠️ Tech Stack</h2>
 
-![dsfsdfsd](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<h2 align="left">⚙️ Development & Infrastructure</h2>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityathute&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityathute&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h2>🚀 Featured Project</h2>
 
-## 💖 Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityathute) 
+<div align="left">
+<h3>ShivanyaMS</h3>
 
-[![](https://visitcount.itsvg.in/api?id=adityathute&label=Profile%20Views&color=12&icon=4&pretty=true)](https://visitcount.itsvg.in)
+<p>
+A modular personal and business management platform built with a scalable full-stack monorepo architecture.
+</p>
+
+<p>
+🌐 <strong>Live Website:</strong>
+<a href="https://shivanyams.com">shivanyams.com</a>
+</p>
+
+<table>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>Next.js · React · TypeScript</td>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td>Python · Django · REST API</td>
+</tr>
+<tr>
+<td><strong>Database</strong></td>
+<td>PostgreSQL · Redis</td>
+</tr>
+<tr>
+<td><strong>Architecture</strong></td>
+<td>Monorepo · pnpm · Turborepo</td>
+</tr>
+<tr>
+<td><strong>Platform</strong></td>
+<td>Shared UI · Authentication · Analytics</td>
+</tr>
+</table>
+
+<h4>Applications</h4>
+
+<p>
+Web · Auth · Admin · Memory
+</p>
+
+</div>
+
+## 🌱 Currently Learning
+
+AI & LLMs · AI Model Development · System Design · Scalable Architecture
+
+## 📫 Connect
+
+- GitHub: [@adityathute](https://github.com/adityathute)
+- LinkedIn: [Aditya Thute](https://www.linkedin.com/in/adityathute/)
+- Website: [shivanyams.com](https://shivanyams.com)
+
+<div align="center">
+
+**Thanks for visiting my profile!**
+
+</div>
 
 
