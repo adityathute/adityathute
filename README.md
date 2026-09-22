@@ -1,5 +1,6 @@
 
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1400&center=false&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Aditya+%F0%9F%91%8B;Full-Stack+Developer;Building+Scalable+Applications)](https://git.io/typing-svg)
 
 <h2>👨‍💻 About Me</h2>
