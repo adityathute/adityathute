@@ -28,7 +28,7 @@ I work across frontend and backend development, with a focus on clean architectu
 
 <div align="left">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adityathute&layout=compact&theme=react&hide_border=false&langs_count=6"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adityathute&layout=compact&theme=react&hide_border=false&langs_count=10"
     width="500"
     alt="Most Used Languages"
   />
