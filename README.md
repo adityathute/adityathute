@@ -19,6 +19,12 @@ I work across frontend and backend development, with a focus on clean architectu
 <img src="https://streak-stats.demolab.com/?user=adityathute&theme=react&hide_border=false" height="170">
 </div>
 
+## 👀 Profile Views
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=adityathute&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <h2>🛠️ Tech Stack</h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -106,5 +112,3 @@ AI & LLMs · AI Model Development · System Design · Scalable Architecture
 **Thanks for visiting my profile!**
 
 </div>
-
-
