@@ -12,18 +12,45 @@ I'm a Full-Stack Developer focused on building scalable web applications and pra
 <p>
 I work across frontend and backend development, with a focus on clean architecture, APIs, databases, and responsive user experiences.
 </p>
+  <strong>📅 Joined in 2018</strong>
 
 <h2>📊 GitHub Statistics</h2>
 
 <div align="left">
-<img src="https://streak-stats.demolab.com/?user=adityathute&theme=react&hide_border=false" height="170">
+  <img
+    src="https://streak-stats.demolab.com/?user=adityathute&theme=react&hide_border=false"
+    width="500"
+    alt="GitHub Streak"
+  />
 </div>
 
-## 👀 Profile Views
+<br>
 
+<div align="left">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adityathute&layout=compact&theme=react&hide_border=false&langs_count=6"
+    width="500"
+    alt="Most Used Languages"
+  />
+</div>
+
+<h2>📊 Developer & Project Statistics</h2>
 <p>
-  <img src="https://komarev.com/ghpvc/?username=adityathute&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=adityathute&label=PROFILE%20VIEWS&style=for-the-badge" height="28" alt="Profile Views" />
+    <img src="https://img.shields.io/github/stars/adityathute?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge" height="28" alt="Total Stars" />
+  <img src="https://img.shields.io/github/followers/adityathute?label=FOLLOWERS&style=for-the-badge" height="28" alt="Followers" />
+  <img
+    src="https://badges.pufler.dev/repos/adityathute?style=for-the-badge&label=REPOS"
+    height="28"
+    alt="Public Repositories"
+  />
+    <img
+    src="https://badges.pufler.dev/commits/all/adityathute?style=for-the-badge&label=COMMITS"
+    height="28"
+    alt="Total Commits"
+  />
 </p>
+
 
 <h2>🛠️ Tech Stack</h2>
 
